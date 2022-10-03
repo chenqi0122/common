@@ -1,4 +1,4 @@
-module common
+module github.com/chenqi0122/common
 
 go 1.18
 
